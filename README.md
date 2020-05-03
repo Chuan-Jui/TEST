@@ -13,9 +13,9 @@
 <br>
 
 #### <h2> 作業系統
-. windows
-. OS X
-. Linux
+ windows
+ OS X
+ Linux
 
 
 
