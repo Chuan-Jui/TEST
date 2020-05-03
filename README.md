@@ -5,6 +5,11 @@
   
 #### <h2> 版本說明
 <br>v1.5.0版(2020年4月30日)
+<br> 
+  
+#### <h2> 安裝 
+<br> 運行最新的Docker映像：
+<br> > docker run --rm -it -p 8443：8443“ openbanking / conformance-suite：v1.4.0”
 
 
 
