@@ -10,6 +10,12 @@
 #### <h2> 安裝 
 <br> 運行最新的Docker映像：
 <br> > docker run --rm -it -p 8443：8443“ openbanking / conformance-suite：v1.4.0”
+<br>
+
+#### <h2> 作業系統
+1.windows
+2.OS X
+3.Linux
 
 
 
